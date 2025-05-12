@@ -1,2 +1,4 @@
 *.txt
+
+# ignoring demo folder as it contains sensitive data
 demo/
